@@ -1,0 +1,4 @@
+M 20 20 h 1 v 1 Z,transparent,black
+cx 111 cy 111 r 15,yellow,black
+D,M 20 20 h 1 v 1 Z
+M 222 222 l 33 33 h 22 Z,transparent,blue
