@@ -1,6 +1,6 @@
 # Blockartlib
 
-This was completed by a team of 4, I worked on the main miner blockchain miner logic while my teammates worked on the geometric intersection, UI, and art nodes logic.
+This blockchain project was completed by a team of 4 software engineering students, I worked on the main [miner](https://github.com/YozuBear/blockchain/tree/master/miner) blockchain miner logic while my teammates worked on the geometric intersection, UI, and art nodes logic.
 
 [Full project description](https://www.cs.ubc.ca/~bestchai/teaching/cs416_2017w2/project1/index.html)
 
